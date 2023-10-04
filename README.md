@@ -4,4 +4,6 @@
 
 
 # Install 
-## copy this repo and run python main.py and it will open up
+### Copy this repo and run python main.py and it will open up
+### Video is a quick example of how it works
+[![Watch the video]](video.mp4)

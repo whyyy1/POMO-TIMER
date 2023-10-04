@@ -117,10 +117,10 @@ def start():
     
     title_label.config(text=f'Reps - {TC} / {repInput.get()} Done')
     
-    totalTime = int(timerInput.get()) * 60  
+    totalTime = int(timerInput.get())  *60 
     
-    SHORT_BREAKS = 5 * 60   
-    LONG_BREAKS = 15 * 60  
+    SHORT_BREAKS = 5 *60  
+    LONG_BREAKS = 15 *60   
     REPS += 1 
     if TC >0:
         marks = ''
